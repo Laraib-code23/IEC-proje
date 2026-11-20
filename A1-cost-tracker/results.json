@@ -1,0 +1,22 @@
+[
+  {
+    "provider": "gemini",
+    "model": "gemini-3.6-flash",
+    "reply": "The capital of Germany is **Berlin**.",
+    "input_tokens": 8,
+    "output_tokens": 80,
+    "input_price_per_m": 1.5,
+    "output_price_per_m": 7.5,
+    "cost_usd": 0.0006119999999999999
+  },
+  {
+    "provider": "groq",
+    "model": "openai/gpt-oss-20b",
+    "reply": "The capital of Germany is **Berlin**.",
+    "input_tokens": 78,
+    "output_tokens": 49,
+    "input_price_per_m": 0.075,
+    "output_price_per_m": 0.3,
+    "cost_usd": 2.0549999999999998e-05
+  }
+]
